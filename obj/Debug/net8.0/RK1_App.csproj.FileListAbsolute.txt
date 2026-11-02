@@ -1,0 +1,15 @@
+/home/roman/rk1-variant-v24_ASOIU3sem/bin/Debug/net8.0/RK1_App
+/home/roman/rk1-variant-v24_ASOIU3sem/bin/Debug/net8.0/RK1_App.deps.json
+/home/roman/rk1-variant-v24_ASOIU3sem/bin/Debug/net8.0/RK1_App.runtimeconfig.json
+/home/roman/rk1-variant-v24_ASOIU3sem/bin/Debug/net8.0/RK1_App.dll
+/home/roman/rk1-variant-v24_ASOIU3sem/bin/Debug/net8.0/RK1_App.pdb
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.AssemblyInfoInputs.cache
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.AssemblyInfo.cs
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.csproj.CoreCompileInputs.cache
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.sourcelink.json
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.dll
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/refint/RK1_App.dll
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.pdb
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/RK1_App.genruntimeconfig.cache
+/home/roman/rk1-variant-v24_ASOIU3sem/obj/Debug/net8.0/ref/RK1_App.dll
